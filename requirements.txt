@@ -1,0 +1,15 @@
+Place your order
+      Client selects a size
+      Client selects ingredients (1 or more ingridients per order)
+      Order is stored with: 
+            client
+            size
+            ingredients
+            prize
+       
+View orders
+    Client can view all the orders he has made
+
+View order
+    Client can view the details of an order
+

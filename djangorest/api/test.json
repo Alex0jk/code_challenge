@@ -1,0 +1,20 @@
+{
+    "id_client":"1717815367",
+    "price_order":"12",
+    "details_order":{
+        "address":"Quito",
+        "phone":"0983153739",
+        "size":{
+            "name_size":"Small",
+            "price_size":"5"
+        },
+        "ingredients":[
+            {
+                "name_ingredient":"Extra chesse",
+                "price_ingredient":"12"
+            }   
+        ]
+    }
+}
+
+{"phone":"0983153739","size":{"name_size":"Small","price_size":"5"},"ingredients":[{"name_ingredient":"Extra chesse","price_ingredient":"12"}],"address":"Quito"}
